@@ -5,4 +5,4 @@ use App\Hello;
 
 $show = new Hello();
 
-echo $show->getTalk();
+echo $show->talk();
